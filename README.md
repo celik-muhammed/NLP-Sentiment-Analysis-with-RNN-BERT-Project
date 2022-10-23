@@ -9,10 +9,10 @@
 <div align='center'>
 
 <img src='https://i.ibb.co/5cQ3H7v/download.png' alt='' width=80%, height=500>
-<img src='https://i.ibb.co/W3WGMMC/download.png' alt='' width=90%, height=300>
-<img src='https://i.ibb.co/q9YBj56/download.png' alt='' width=90%, height=300>
-<img src='https://i.ibb.co/Pg4KPBc/download.png' alt='' width=90%, height=300>
-<img src='https://i.ibb.co/mDNqjwr/download.png' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/W3WGMMC/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/q9YBj56/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/Pg4KPBc/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/mDNqjwr/download.png' alt='' width=90%, height=500>
 </div>
 
 - [Text classification with Transformer with tf.Keras](https://keras.io/examples/nlp/text_classification_with_transformer/)
