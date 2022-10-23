@@ -7,12 +7,16 @@
 01. [NLP-Sentiment-Analysis-with-RNN-BERT-Project](./NLP_Sentiment_Analysis_Project.ipynb)
 
 <div align='center'>
-
+ 
+**BERT Model has %63 Precision score and has %94 Accuracy Score. So, it can be preferred as a single model.**
+XGBoost TF has the highest Precision score ( %95 ) according to other models, and its other scores upper the average score, So, it can be preferred.
+Ada Boost has the highest Recall score ( %96 ), but has the lowest Accuracy and F1 Scores.
 <img src='https://i.ibb.co/5cQ3H7v/download.png' alt='' width=80%, height=500>
 <img src='https://i.ibb.co/W3WGMMC/download.png' alt='' width=90%, height=500>
 <img src='https://i.ibb.co/q9YBj56/download.png' alt='' width=90%, height=500>
 <img src='https://i.ibb.co/Pg4KPBc/download.png' alt='' width=90%, height=500>
 <img src='https://i.ibb.co/mDNqjwr/download.png' alt='' width=90%, height=500>
+
 </div>
 
 - [Text classification with Transformer with tf.Keras](https://keras.io/examples/nlp/text_classification_with_transformer/)
