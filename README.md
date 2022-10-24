@@ -5,7 +5,7 @@
 ## Visually Compare Models Performance In a Graph
 
 01. [NLP-Sentiment-Analysis-with-RNN-BERT-Project](./NLP_Sentiment_Analysis_Project.ipynb)
-01. [NLP-Sentiment-Analysis-with-RNN-BERT-Project NBVIEWER](https://nbviewer.org/github/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project/blob/master/NLP_Sentiment_Analysis_Project.ipynb)
+01. [NBVIEWER: NLP-Sentiment-Analysis-with-RNN-BERT-Project](https://nbviewer.org/github/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project/blob/master/NLP_Sentiment_Analysis_Project.ipynb)
 
 <div align='center'>
  
