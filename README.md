@@ -6,7 +6,7 @@
 
 01. [NLP-Sentiment-Analysis-with-RNN-BERT-Project](./NLP_Sentiment_Analysis_Project.ipynb)
 01. [NBVIEWER: NLP-Sentiment-Analysis-with-RNN-BERT-Project 91 Recall](https://nbviewer.org/github/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project/blob/master/NLP_Sentiment_Analysis_Project.ipynb)
-01. [NBVIEWER: NLP-Sentiment-Analysis-with-RNN-BERT-Project 95 Recall](https://nbviewer.org/github/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project/blob/master/NLP_Sentiment_Analysis_Project-Batch-Normalization.ipynb)
+01. [NBVIEWER: NLP-Sentiment-Analysis-with-RNN-BERT-Project 95 Recall](https://nbviewer.org/github/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project/blob/master/NLP_Sentiment_Analysis_Project-Batch-Normalization.ipynb) 
 
 <div align='center'>
  
